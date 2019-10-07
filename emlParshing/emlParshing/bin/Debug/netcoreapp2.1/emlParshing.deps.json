@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "255453c64c879b765cd4f8585d68e5f16a381803"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "emlParshing/1.0.0": {
+        "dependencies": {
+          "EAGetMail": "5.0.0.3"
+        },
+        "runtime": {
+          "emlParshing.dll": {}
+        }
+      },
+      "EAGetMail/5.0.0.3": {
+        "runtime": {
+          "lib/netcoreapp2.1/EAGetMail.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "emlParshing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EAGetMail/5.0.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BVnTa1EtC4BV1zA+3mDgPWnf9oo/3gH+nNVkDylvolR6SlEsyqFSxw6JrPRq7IACoRE9y7dXOdOWq5zXtq8wzw==",
+      "path": "eagetmail/5.0.0.3",
+      "hashPath": "eagetmail.5.0.0.3.nupkg.sha512"
+    }
+  }
+}

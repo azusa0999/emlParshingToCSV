@@ -1,0 +1,4 @@
+﻿TagetDirectory=C:\MailBackup\
+ExportFileName=EmailToCSV.csv
+CutLineDelimiters=보낸사람,Original Message,Forward Message
+NotWriteStrings=안녕하십니까.sign,안녕하십니까?,안녕하세요.
